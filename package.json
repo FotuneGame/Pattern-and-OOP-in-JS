@@ -1,0 +1,13 @@
+{
+  "name": "js_and_patern",
+  "version": "1.0.0",
+  "description": "This project for my learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
