@@ -9,6 +9,8 @@ console.log(require("./Paterns/Generative/FactoryMethod/index")());
 console.log(require("./Paterns/Generative/AbstractFactory/index")());
 console.log(require("./Paterns/Generative/Builder/index")());
 console.log(require("./Paterns/Generative/Singleton/index")());
+console.log(require("./Paterns/Generative/Modul/index")());
+console.log(require("./Paterns/Generative/Prototype/index")());
 
 console.log("Структурные паттерны (структура объектов и связи между ними)");
 console.log(require("./Paterns/Structural/Adapter/index")());
@@ -16,7 +18,7 @@ console.log(require("./Paterns/Structural/Bridge/index")());
 console.log(require("./Paterns/Structural/Compare/index")());
 console.log(require("./Paterns/Structural/Decorator/index")());
 console.log(require("./Paterns/Structural/Facade/index")());
-console.log(require("./Paterns/Structural/TheOpportunist/index")());
+console.log(require("./Paterns/Structural/Flyweight/index")());
 console.log(require("./Paterns/Structural/Proxy/index")());
 
 console.log("Поведенческие паттерны (обеспечивают взаимодействие объектов и распределяют обязанности)");
@@ -30,3 +32,4 @@ console.log(require("./Paterns/Behavioral/Visitor/index")());
 console.log(require("./Paterns/Behavioral/Strategy/index")());
 console.log(require("./Paterns/Behavioral/State/index")());
 console.log(require("./Paterns/Behavioral/TemplateMethod/index")());
+console.log(require("./Paterns/Behavioral/Interpreter/index")());
